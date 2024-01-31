@@ -4,7 +4,7 @@ This code takes a number between 0-100 and determines a letter grade for a stude
 
 ## Getting Started
 
-These instructions will run this code for translating number grades to letter grades with the letterGrade.py script.
+These instructions will run this code for translating percentage grades to letter grades with the letterGrade.py script.
 
 ### Prerequisites
 
